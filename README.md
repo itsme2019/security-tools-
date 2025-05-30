@@ -13,10 +13,3 @@ Basic network reconnaissance tool with banner grabbing capability.
 ### Usage
 ```bash
 python3 port_scanner.py target.com
-## Requirements
-
-Python 3.6+
-Network connectivity
-
-Legal Notice
-For authorized testing only. Always obtain proper permission before scanning networks
